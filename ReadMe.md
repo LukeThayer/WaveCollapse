@@ -1,6 +1,6 @@
 
 
-# 2-D Wave collapse function
+# 2-D Wave collapse function WIP
 
 ## Goal:
  given an NxM size grid the algorthim will populate the grid with tiles using the wave collapse function
